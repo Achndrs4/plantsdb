@@ -1,0 +1,128 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/achndrs4/.android/build-cache/ea16a4353b52ea153ba4c98d9749a956d8d755bf/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/achndrs4/.android/build-cache/ce8a23ddaf0269b3e92a0a6d5f141b8c8981aece/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/achndrs4/.android/build-cache/cb7b0806d4aa4d136f9ef1ddf39d01fb8c68eed8/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/achndrs4/.android/build-cache/505ea472857fe525ffddbccad69c398e34d76b97/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/achndrs4/.android/build-cache/4ec1ad94f34fb0de4a5ed76a36372bdb606e886d/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/achndrs4/.android/build-cache/a433e535c190e5b98a2e88f8be4c2dabd489e507/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/achndrs4/.android/build-cache/adde687fd2c9353f8fe30ab1c3eef5e4679ac9b1/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/achndrs4/.android/build-cache/27b4044b606dc7b7529c66fd43ad5461a87b2a6d/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/achndrs4/.android/build-cache/d356026102a175301c7a9d2dbe3f1df6ef805d25/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/achndrs4/.android/build-cache/264bc411632d245078a2e2f017b2fc9a96a5590b/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/achndrs4/.android/build-cache/ea16a4353b52ea153ba4c98d9749a956d8d755bf/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:7:15-40
+		INJECTED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:10:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:11:22-77
+application
+ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:13:5-46:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/achndrs4/.android/build-cache/ea16a4353b52ea153ba4c98d9749a956d8d755bf/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/achndrs4/.android/build-cache/ce8a23ddaf0269b3e92a0a6d5f141b8c8981aece/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/achndrs4/.android/build-cache/cb7b0806d4aa4d136f9ef1ddf39d01fb8c68eed8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/achndrs4/.android/build-cache/505ea472857fe525ffddbccad69c398e34d76b97/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/achndrs4/.android/build-cache/4ec1ad94f34fb0de4a5ed76a36372bdb606e886d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/achndrs4/.android/build-cache/a433e535c190e5b98a2e88f8be4c2dabd489e507/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/achndrs4/.android/build-cache/adde687fd2c9353f8fe30ab1c3eef5e4679ac9b1/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/achndrs4/.android/build-cache/27b4044b606dc7b7529c66fd43ad5461a87b2a6d/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/achndrs4/.android/build-cache/d356026102a175301c7a9d2dbe3f1df6ef805d25/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/achndrs4/.android/build-cache/264bc411632d245078a2e2f017b2fc9a96a5590b/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:14:9-38
+activity#com.android.loginapp.login
+ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:17:13-34
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:22:27-74
+activity#com.android.loginapp.Register
+ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:25:9-33:20
+	android:label
+		ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:26:13-37
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.VIEW
+ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:31:17-76
+	android:name
+		ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:31:27-73
+activity#com.android.loginapp.Helloworld
+ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:34:9-42:20
+	android:label
+		ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:36:13-45
+	android:name
+		ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:35:13-39
+activity#com.android.loginapp.myPlants
+ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:43:9-46
+	android:name
+		ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:43:19-43
+activity#com.android.loginapp.AndroidListViewCursorAdaptorActivity
+ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:44:9-45:47
+	android:label
+		ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:45:13-45
+	android:name
+		ADDED from /home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/src/main/AndroidManifest.xml:44:19-71
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/achndrs4/.android/build-cache/ea16a4353b52ea153ba4c98d9749a956d8d755bf/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/achndrs4/.android/build-cache/ce8a23ddaf0269b3e92a0a6d5f141b8c8981aece/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/achndrs4/.android/build-cache/cb7b0806d4aa4d136f9ef1ddf39d01fb8c68eed8/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/achndrs4/.android/build-cache/505ea472857fe525ffddbccad69c398e34d76b97/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/achndrs4/.android/build-cache/4ec1ad94f34fb0de4a5ed76a36372bdb606e886d/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/achndrs4/.android/build-cache/a433e535c190e5b98a2e88f8be4c2dabd489e507/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/achndrs4/.android/build-cache/adde687fd2c9353f8fe30ab1c3eef5e4679ac9b1/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/achndrs4/.android/build-cache/27b4044b606dc7b7529c66fd43ad5461a87b2a6d/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/achndrs4/.android/build-cache/d356026102a175301c7a9d2dbe3f1df6ef805d25/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/achndrs4/.android/build-cache/ea16a4353b52ea153ba4c98d9749a956d8d755bf/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/achndrs4/.android/build-cache/ea16a4353b52ea153ba4c98d9749a956d8d755bf/output/AndroidManifest.xml:26:9-47

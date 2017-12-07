@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/achndrs4/.android/build-cache/ea16a4353b52ea153ba4c98d9749a956d8d755bf/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/achndrs4/.android/build-cache/ea16a4353b52ea153ba4c98d9749a956d8d755bf/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/achndrs4/.android/build-cache/ea16a4353b52ea153ba4c98d9749a956d8d755bf/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/achndrs4/.android/build-cache/ea16a4353b52ea153ba4c98d9749a956d8d755bf/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

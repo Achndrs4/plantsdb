@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		xmlns:tools="http://schemas.android.com/tools"
+		android:orientation="vertical"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:weightSum="1">
+
+		<TextView
+			android:id="@+id/myTextView"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:text="Modify Plants DB"
+			android:textAppearance="@android:style/TextAppearance.DeviceDefault"
+			android:textSize="24sp" />
+
+	<TextView
+		android:id="@+id/textView"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Add Plant"
+		android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large" />
+
+	<EditText
+		android:id="@+id/editText"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:ems="10"
+		android:hint="Search Symbol, Scientific, or Common Name"
+		android:inputType="none|text" />
+
+	<Button
+		android:id="@+id/enter"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="ADD ITEM" />
+
+	<TextView
+		android:id="@+id/textView2"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Remove Plant"
+		android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
+		tools:text="Remove Plant" />
+
+	<EditText
+		android:id="@+id/rm"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:ems="10"
+		android:hint="Search Symbol, Scientific, or Common Name"
+		android:inputType="none|text|textPersonName" />
+
+	<Button
+		android:id="@+id/remove"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="REMOVE ITEM"
+		tools:text="Remove Item" />
+
+	<TextView
+		android:id="@+id/textView9"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Remove Plant"
+		android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
+		tools:text="Modify Plant" />
+
+	<EditText
+		android:id="@+id/editText2"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:ems="10"
+		android:hint="name,state,type, lifespan,edible,symbol,temp"
+		android:inputType="textPersonName" />
+
+	<Button
+		android:id="@+id/button"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Make your own Plant!" />
+
+	<Button
+		android:id="@+id/button2"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Advanced Recommendation" />
+
+</LinearLayout>

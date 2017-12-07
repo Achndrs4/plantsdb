@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/achndrs4/.android/build-cache/ea16a4353b52ea153ba4c98d9749a956d8d755bf/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/achndrs4/.android/build-cache/ea16a4353b52ea153ba4c98d9749a956d8d755bf/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/achndrs4/.android/build-cache/ea16a4353b52ea153ba4c98d9749a956d8d755bf/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/achndrs4/.android/build-cache/ea16a4353b52ea153ba4c98d9749a956d8d755bf/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/achndrs4/.android/build-cache/ea16a4353b52ea153ba4c98d9749a956d8d755bf/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/achndrs4/.android/build-cache/ea16a4353b52ea153ba4c98d9749a956d8d755bf/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/achndrs4/.android/build-cache/ea16a4353b52ea153ba4c98d9749a956d8d755bf/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/achndrs4/.android/build-cache/ea16a4353b52ea153ba4c98d9749a956d8d755bf/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/achndrs4/.android/build-cache/ea16a4353b52ea153ba4c98d9749a956d8d755bf/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/achndrs4/.android/build-cache/ea16a4353b52ea153ba4c98d9749a956d8d755bf/output/res/color-v23/abc_tint_switch_track.xml"
+    }
+]

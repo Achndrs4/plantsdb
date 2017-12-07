@@ -1,0 +1,7 @@
+#Wed Dec 06 14:58:40 CST 2017
+base.0=/home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8af0f64cd17450138cc544737ffa5cb44cf70ca5
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_75467de29e3d0b43ef7f6b7279cc886bb709117e/classes.dex
+base.1=/home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_75467de29e3d0b43ef7f6b7279cc886bb709117e
+file.0=/home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8af0f64cd17450138cc544737ffa5cb44cf70ca5/classes.dex

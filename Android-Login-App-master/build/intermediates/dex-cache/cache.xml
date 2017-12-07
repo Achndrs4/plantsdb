@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7b31f80be59d7fb4fa0fe3a9ec58dc402219605b">
+        <dex dex="/home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_75467de29e3d0b43ef7f6b7279cc886bb709117e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/achndrs4/AndroidStudioProjects/Android-Login-App-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8af0f64cd17450138cc544737ffa5cb44cf70ca5/classes.dex" />
+    </item>
+
+</items>
